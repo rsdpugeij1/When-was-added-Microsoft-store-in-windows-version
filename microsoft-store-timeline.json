@@ -1,0 +1,64 @@
+{
+    "initial_release": "2012-10-26",
+    "first_announcement": "2011-09-13",
+    "consumer_preview": "2012-02",
+    "rebrand": {
+        "year": 2017,
+        "from": "Windows Store",
+        "to": "Microsoft Store"
+    },
+    "versions": [
+        {
+            "os": "Windows 8",
+            "year": 2012,
+            "notes": "First launch as Windows Store"
+        },
+        {
+            "os": "Windows 8.1",
+            "year": 2013,
+            "notes": "UI redesign, auto-updates"
+        },
+        {
+            "os": "Windows 10",
+            "year": 2015,
+            "notes": "Unified platform, Xbox integration"
+        },
+        {
+            "os": "Windows 11",
+            "year": 2021,
+            "notes": "Major redesign, more open ecosystem"
+        }
+    ],
+    "milestones": [
+        {
+            "year": 2008,
+            "event": "Windows Marketplace shut down"
+        },
+        {
+            "year": 2011,
+            "event": "Windows Store announced"
+        },
+        {
+            "year": 2012,
+            "event": "Windows Store launched with Windows 8"
+        },
+        {
+            "year": 2017,
+            "event": "Rebranded as Microsoft Store"
+        },
+        {
+            "year": 2019,
+            "event": "E-book sales discontinued"
+        },
+        {
+            "year": 2025,
+            "event": "Video-on-demand discontinued"
+        }
+    ],
+    "features": {
+        "Windows 8": "Metro-style apps only",
+        "Windows 8.1": "Better UI, auto-updates",
+        "Windows 10": "Win32 apps, themes, fonts, Xbox integration",
+        "Windows 11": "Fluent Design, faster performance, broader app support"
+    }
+}
