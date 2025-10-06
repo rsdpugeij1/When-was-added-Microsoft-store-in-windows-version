@@ -47,10 +47,5 @@
 
 ---
 
-## 📂 Data File
-See [`data/microsoft-store-timeline.json`](data/microsoft-store-timeline.json) for a machine-readable timeline.
-
----
-
 ## 📝 License
 MIT — see [LICENSE](LICENSE).
